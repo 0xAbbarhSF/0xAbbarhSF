@@ -60,7 +60,6 @@
 <a href="https://github.com/StarFord-NG/RootTerminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=RootTerminal&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Autopayload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Autopayload&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Nethunter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Nethunter&theme=dark"></a>
-<a href="https://github.com/StarFord-NG/Tshell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Tshell&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/HammerDOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=HammerDOS&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/SecLists"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=SecLists&theme=dark"></a>
 </p>
