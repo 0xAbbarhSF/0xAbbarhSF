@@ -61,10 +61,7 @@
 <a href="https://github.com/StarFord-NG/Autopayload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Autopayload&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Nethunter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Nethunter&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Tshell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Tshell&theme=dark"></a>
-<a href="https://github.com/StarFord-NG/XploitHackTools"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=XploitHackTools&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/HammerDOS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=HammerDOS&theme=dark"></a>
-<a href="https://github.com/StarFord-NG/Fb-Brute"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Fb-Brute&theme=dark"></a>
-<a href="https://github.com/StarFord-NG/Ch3at3r"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Ch3at3r&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/SecLists"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=SecLists&theme=dark"></a>
 </p>
 
