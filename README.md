@@ -4,7 +4,7 @@
 
 ## ⚡ W3LC0M3 TO MY REPO
 
-<p align="center"><img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
+<p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=StarFord-NG&label=Profile%20views&style=flat" alt="StarFord-NG" /> </p>
 
