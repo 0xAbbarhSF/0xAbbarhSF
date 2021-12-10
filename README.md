@@ -1,9 +1,6 @@
 <p align="center">
-<!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="195px" src="    priflr pic   " /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarFord-NG&hide=ruby,perl&hide_border=true" /> -->
 
-## ⚡ W3LC0M3 TO MY REPO
-
+#### ⚡ Speed Up 
 <p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
 
 <img alt="StarFord-NG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarFord-NG&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
