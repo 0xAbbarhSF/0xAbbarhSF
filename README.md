@@ -9,11 +9,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
 </p>
 
+<p>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=StarFord-NG&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
+</p>
+
 #### ForTheLulz  👋
 
 - 💌 Pure Love For **PYTHON && BASH**
-
-- ♦️ I play **CTF on TryHackMe**
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
 
@@ -21,11 +23,7 @@
 
 - 🌐 My Website [https://starfordrapid.blogspot.com](https://starfordrapid.blogspot.com)
 
-- 👨‍💻 All of my projects are available at [https://github.com/StarFord-NG](https://github.com/StarFord-NG)
-
-- 💬 i only talk if its about **Haking, Progamming, Gaming**
-
-- 📫 How to reach me **starfordrapid@gmail.com**
+- 📫 Hit me **starfordrapid@gmail.com**
 
 - ⚡ Guess? i am **noob** :D
 
