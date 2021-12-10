@@ -25,8 +25,6 @@
 
 - 💬 Hit my [Telegram](https://t.me/Abbarh22)
 
-- 🌐 My Website [https://starfordrapid.blogspot.com](https://starfordrapid.blogspot.com)
-
 - 📫 Hit me **starfordrapid@gmail.com**
 
 - ⚡ Guess? i am **noob** :D
