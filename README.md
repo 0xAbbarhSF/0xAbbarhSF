@@ -1,4 +1,6 @@
 <p align="center">
+<!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="195px" src="    priflr pic   " /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarFord-NG&hide=ruby,perl&hide_border=true" /> -->
 
 #### ⚡ Speed Up 
 <p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
@@ -7,8 +9,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
 </p>
 
-## Hi Nig*a, I'm 艾StarFord-NG艾  👋
-#### LulzS3c TEAM [RapidXploiter]
+#### ForTheLulz  👋
 
 - 💌 Pure Love For **PYTHON && BASH**
 
