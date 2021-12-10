@@ -13,7 +13,7 @@
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=StarFord-NG&bg_color=2D2B55&color=A297E6&line=A297E6&point=D9B60C"></a>
 </p>
 </br>
-<i>who‘s Jiggi MF with the Hoe‘s brah</i><br>
+<i>who‘s the Jiggi MF with the Hoe‘s brah?</i><br>
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
 
