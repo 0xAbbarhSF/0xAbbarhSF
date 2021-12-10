@@ -6,10 +6,6 @@
 
 <p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="195px" src="https://avatars.githubusercontent.com/u/67552744?v=4" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=StarFord-NG&label=Profile%20views&style=flat" alt="StarFord-NG" /> </p>
-
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/67552744?v=4"><img src="https://github-profile-trophy.vercel.app/?username=StarFord-NG" alt="StarFord-NG" /></a> </p>
-
 <img alt="StarFord-NG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarFord-NG&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
 </p>
