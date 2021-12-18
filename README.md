@@ -50,6 +50,7 @@
 <p align="center">
 <a href="https://github.com/StarFord-NG/Pro-SQLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Pro-SQLI&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Info-Sec-Dork-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Info-Sec-Dork-List&theme=dark"></a>
+<a href="https://github.com/StarFord-NG/SQLI-Dios-Bypass<img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=SQLI-Dios-Bypass&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/TOS-INSTALLER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=TOS-INSTALLER&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/RootTerminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=RootTerminal&theme=dark"></a>
 <a href="https://github.com/StarFord-NG/Autopayload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=StarFord-NG&repo=Autopayload&theme=dark"></a>
