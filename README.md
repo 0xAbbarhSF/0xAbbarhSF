@@ -5,7 +5,6 @@
 ##### ⚡ Speed Up Samurai 
 <p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="250px" src="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" /></p>
 <img height="90px" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" />
-<img height="90px" align="center" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" />
 
 <img alt="StarFord-NG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarFord-NG&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
