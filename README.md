@@ -10,25 +10,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
 </p>
 
-<script>
-<div>
-       <button onclick="next()"> Next </button>
-       <img src="https://i.ibb.co/G0HRnXm/Screenshot-20211231-153754-1.jpg " alt="All Caps No Space" weight="150px" height="100px" />
-       <button onclick="prev()"> Prev </button>
-</div>
-
-var images = ["https://i.ibb.co/G0HRnXm/Screenshot-20211231-153754-1.jpg", "https://i.ibb.co/G0HRnXm/Screenshot-20211231-153754-1.jpg", " https://i.ibb.co/G0HRnXm/Screenshot-20211231-153754-1.jpg "];
-var num = 0;
-
-function next() {
-     var slide = document.getElementById("SFNG");
-     num++;
-     if (slide >= images.lenght) {
-     num = 0;
-}
-slide.scr = image[num];
-}
-</script>
 
 
 
