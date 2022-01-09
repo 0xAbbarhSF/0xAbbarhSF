@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
 </p>
 
-
+<script>
 <div>
        <button onclick="next()"> Next </button>
        <img src="https://i.ibb.co/G0HRnXm/Screenshot-20211231-153754-1.jpg " alt="All Caps No Space" weight="150px" height="100px" />
@@ -28,7 +28,7 @@ function next() {
 }
 slide.scr = image[num];
 }
-
+</script>
 
 
 
