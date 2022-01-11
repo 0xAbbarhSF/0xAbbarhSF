@@ -2,7 +2,7 @@
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarFord-NG&hide=ruby,perl&hide_border=true" /> -->
 
-##### ⚡ Speed Up Samurai 
+##### ⚡ All Caps, No Space
 <p align="center"><img alt="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" width="250px" src="https://c.tenor.com/bP1D4RbZYuQAAAAC/ninja-gaiden.gif" /></p>
 <p align="center"><img height="30px" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" /><p>
 
@@ -21,7 +21,7 @@
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
 
-#### ForTheLulz  👋
+#### All Caps No Space  👋
 
 - 💌 Pure Love For **PYTHON && BASH**
 
