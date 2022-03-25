@@ -3,7 +3,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarFord-NG&hide=ruby,perl&hide_border=true" /> -->
 
 ##### 💀 Never Ride slow No Horn
-<p align="center"><img src="https://raw.githubusercontent.com/StarFord-NG/StarFord-NG/main/20220319_074430.gif" width="270px" height="100" src="https://raw.githubusercontent.com/StarFord-NG/StarFord-NG/main/20220319_074430.gif" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/StarFord-NG/StarFord-NG/main/20220319_074430.gif" width="260px" height="130" src="https://raw.githubusercontent.com/StarFord-NG/StarFord-NG/main/20220319_074430.gif" /></p>
 
 <img alt="StarFord-NG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarFord-NG&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=StarFord-NG&theme=chartreuse-dark" alt="StarFord-NG" /></p>
