@@ -3,7 +3,7 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=StarFord-NG&hide=ruby,perl&hide_border=true" /> -->
 
 ##### ⚡ All Caps, No Space
-<p align="center"><img alt="https://gcdnb.pbrd.co/images/9c6iHpcAGySh.png?o=1" width="250px" height="150" src="https://gcdnb.pbrd.co/images/9c6iHpcAGySh.png?o=1" /></p>
+<p align="center"><img alt="https://raw.githubusercontent.com/StarFord-NG/StarFord-NG/main/20220319_074430.gif" width="250px" height="150" src="https://gcdnb.pbrd.co/images/9c6iHpcAGySh.png?o=1" /></p>
 <p align="center"><img height="30px" src="https://user-images.githubusercontent.com/62377713/128624049-4c26317e-3177-4754-b873-d607aede8c23.gif" /><p>
 
 <img alt="StarFord-NG's Github Stats" src="https://github-readme-stats.vercel.app/api?username=StarFord-NG&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
