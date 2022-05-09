@@ -2,7 +2,7 @@
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
-##### 💀 It Take‘s Some Courage To BET 📠
+##### 💀 Tie Up My Bandana, walk around Los Santos Alley 💰
 <p align="center"><img src="https://raw.githubusercontent.com/AbbarhSF/AbbarhSF/main/20220319_074430.gif" width="260px" height="130" src="https://raw.githubusercontent.com/AbbarhSF/AbbarhSF/main/20220319_074430.gif" /></p>
 
 <img alt="AbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
