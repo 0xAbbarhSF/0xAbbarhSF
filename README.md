@@ -2,7 +2,7 @@
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
-##### 💀 Tie Up My Bandana, walk around Los Santos Alley 💰
+##### 💀In the Night Hour‘s, I Gain Sight 💻🕵️
 <p align="center"><img src="https://raw.githubusercontent.com/AbbarhSF/AbbarhSF/main/20220319_074430.gif" width="260px" height="130" src="https://raw.githubusercontent.com/AbbarhSF/AbbarhSF/main/20220319_074430.gif" /></p>
 
 <img alt="AbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
@@ -19,9 +19,6 @@
 <i>who‘s the Jiggi MF with the Hoe‘s brah?</i><br>
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
-
-#### All Caps No Space  👋
-
 - 💌 Pure Love For **PYTHON && BASH**
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
@@ -30,12 +27,10 @@
 
 - 📫 Hit me **starfordrapid@gmail.com**
 
-- ⚡ Guess? i am **noob** :D
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100070354313636" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RaynerSec" height="30" width="40" /></a>
-<a href="https://twitter.com/Abbarh_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@AbbarhSF" height="30" width="40" /></a>
+<a href="https://www.facebook.com/usmanabba.isah.3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="RaynerSec" height="30" width="40" /></a>
+<a href="https://twitter.com/AbbarhSF" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@AbbarhSF" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCrbIDva6pmGKxfZ93Z40U4Q" height="30" width="40" /></a>
 </p>
 
@@ -52,6 +47,7 @@
 <h3 align="left">My Projects:</h3>
 <p align="center">
 
+<a href="https://github.com/AbbarhSF/Web-Hacking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Web-Hacking&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/DdosToolKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=DdosToolKit&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/Pro-SQLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Pro-SQLI&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/Info-Sec-Dork-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Info-Sec-Dork-List&theme=dark"></a>
