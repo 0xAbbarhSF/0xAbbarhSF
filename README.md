@@ -12,20 +12,19 @@
 
 
 
-<p>
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=AbbarhSF&bg_color=16CDDE&color=8A0F1B&line=#8A0F1B&point=D9B60C"></a>
-</p>
 </br>
-<i>who‘s the Jiggi MF with the Hoe‘s brah?</i><br>
+<i>NightSighting 🕵️💻><br>
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
 - 💌 Pure Love For **PYTHON && BASH**
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
 
+- 🖥️ YouTube channel [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w)
+
 - 💬 Hit my [Telegram](https://t.me/Abbarh22)
 
-- 📫 Hit me **starfordrapid@gmail.com**
+- 📫 Hit My Mail [Gmail](starfordrapid@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,10 +32,6 @@
 <a href="https://twitter.com/AbbarhSF" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@AbbarhSF" height="30" width="40" /></a>
 <a href="https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UCrbIDva6pmGKxfZ93Z40U4Q" height="30" width="40" /></a>
 </p>
-
-#### ☕ Support me by buying me a coffee!
-
-<a href="https://paypal.me/donateabba" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30px" width="200px"></a>
 
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
