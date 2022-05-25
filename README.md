@@ -5,8 +5,8 @@
 ##### 💀In the Night Hour‘s, I Gain Sight 💻🕵️
 <p align="center"><img src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" width="260px" height="130" src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" /></p>
 
-<img alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-Red" />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbbarhSF&theme=chartreuse-Red" alt="0xAbbarhSF" /></p>
+<img alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme-red" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbbarhSF&theme-red" alt="0xAbbarhSF" /></p>
 </p>
 
 
