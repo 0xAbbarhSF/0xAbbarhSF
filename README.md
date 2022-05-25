@@ -55,7 +55,7 @@
 <a href="https://github.com/AbbarhSF/DdosToolKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=DdosToolKit&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/Pro-SQLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Pro-SQLI&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/Info-Sec-Dork-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Info-Sec-Dork-List&theme=dark"></a>
-<a href="https://github.com/AbbarhSF/SQLI-Dios-Bypass<img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=SQLI-Dios-Bypass&theme=dark"></a>
+<a href="https://github.com/AbbarhSF/SQLI-Dios-Bypass"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=SQLI-Dios-Bypass&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/TOS-INSTALLER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=TOS-INSTALLER&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/RootTerminal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=RootTerminal&theme=dark"></a>
 <a href="https://github.com/AbbarhSF/Autopayload"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbbarhSF&repo=Autopayload&theme=dark"></a>
