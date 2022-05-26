@@ -1,3 +1,10 @@
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
+[![Structure](https://images.repography.com/0/neovim/neovim/structure/f00e021e8d4f56f5a659737a2301b4c1_table.svg)](https://github.com/neovim/neovim)
+
+
+
+
 <p align="center">
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
