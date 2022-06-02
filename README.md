@@ -49,8 +49,7 @@
 <h3 align="left">My Projects:</h3>
 <p align="center">
 
-<a href="https://github.com/0xAbbarhSF/Web-Hacking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=Web-Hacking&theme=dark"></a>
-<a href="https://github.com/0xAbbarhSF/DdosToolKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=DdosToolKit&theme=dark"></a>
+<a href="https://github.com/0xAbbarhSF/Web-Hacking"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=Web-Hacking&theme=dark"></a> <a href="https://github.com/0xAbbarhSF/DdosToolKit"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=DdosToolKit&theme=dark"></a>
 <a href="https://github.com/0xAbbarhSF/Pro-SQLI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=Pro-SQLI&theme=dark"></a>
 <a href="https://github.com/0xAbbarhSF/Info-Sec-Dork-List"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=Info-Sec-Dork-List&theme=dark"></a>
 <a href="https://github.com/0xAbbarhSF/SQL-1NJECTION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xAbbarhSF&repo=SQL-1NJECTION&theme=dark"></a>
