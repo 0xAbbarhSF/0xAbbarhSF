@@ -29,7 +29,7 @@
 
 - 🖥️ YouTube channel [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w)
 
-- 💬 Hit my [Telegram](https://t.me/Abbarh22)
+- 💬 Hit my [Telegram](https://t.me/AbbarhSF)
 
 - 📫 Hit My Mail [Gmail](starfordrapid@gmail.com)
 
