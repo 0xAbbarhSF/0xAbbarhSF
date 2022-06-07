@@ -29,6 +29,8 @@
 
 - 📫 Hit My Mail [Gmail](starfordrapid@gmail.com)
   
+- ⚕️ Instagram-: [@0xAbbarhSF](   ) <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  
 - 💠 Facebook-: [@0xAbbarhSF](https://www.facebook.com/katokaari.kiarikari) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 
 - 🕊️ Twitter-: [@0xAbbarhSF](https://twitter.com/0xAbbarhSF)
