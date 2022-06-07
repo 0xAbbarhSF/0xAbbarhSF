@@ -1,10 +1,4 @@
 
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Structure
-[![Structure](https://images.repography.com/0/neovim/neovim/structure/f00e021e8d4f56f5a659737a2301b4c1_table.svg)](https://github.com/neovim/neovim)
-
-
-
-
 <p align="center">
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
@@ -17,7 +11,7 @@
 <img alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbbarhSF&theme=chartreuse-dark" alt="0xAbbarhSF" /></p>
 </p>
-<p><img aligncentecer" src="https://github-profile-trophy.vercel.app/?0xAbbarhSF={0xAbbarhSF}</p>
+<p><img aligncentecer" src="https://github-profile-trophy.vercel.app/?username={0xAbbarhSF}</p>
 
 
 
