@@ -23,7 +23,7 @@
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
 
-- 🖥️ YouTube channel [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w)
+- 🖥️ YouTube channel [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w) <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
 - 💬 Hit my [Telegram](https://t.me/AbbarhSF)
 
