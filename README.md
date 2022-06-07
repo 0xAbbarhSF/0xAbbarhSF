@@ -19,7 +19,7 @@
 <i>NightSighting 🕵️💻><br>
 <a href=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
-- 💌 Pure Love For **PYTHON && BASH**
+- 💌 Pure Love For **PYTHON && BASH** <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
 
