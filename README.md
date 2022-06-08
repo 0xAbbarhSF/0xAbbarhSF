@@ -9,7 +9,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
-#####  💻🕵️
+
 <p align="center"><img src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" width="460px" height="130" src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" /></p>
 
                 
@@ -22,7 +22,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 </br>
 <i>NightSighting 🕵️💻><br>
-<href ><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
+<href a=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
 - 💌 Pure Love For **PYTHON && BASH** <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 
