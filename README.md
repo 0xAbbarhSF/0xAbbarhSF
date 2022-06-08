@@ -10,7 +10,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
 #####  💻🕵️
-<p align="center"><img src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" width="260px" height="130" src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" width="460px" height="130" src="https://raw.githubusercontent.com/0xAbbarhSF/0xAbbarhSF/main/20220319_074430.gif" /></p>
 
                 
 
