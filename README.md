@@ -14,7 +14,6 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
                 
 
-<img alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&include_all_commits=true&hide_border=true&theme=chartreuse-dark" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xAbbarhSF&theme=chartreuse-dark" alt="0xAbbarhSF" /></p>
 </p>
 <p><img aligncentecer" src="https://github-profile-trophy.vercel.app/?username={0xAbbarhSF}</p>
@@ -29,17 +28,17 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 - 🚭 Smoking is illegal, but i **SMOKE 🤒** 
 
-- 🖥️ YouTube channel [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w) <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+- 🖥️ [YouTube](https://m.youtube.com/channel/UCfibIPgqNCmm_3QgGLE9N3w) <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 
 - 💬 Hit my [Telegram](https://t.me/AbbarhSF)
 
-- 📫 Hit My Mail [Gmail](starfordrapid@gmail.com)
+- 📫 [Gmail](starfordrapid@gmail.com)
   
-- ⚕️ Instagram-: [@0xAbbarhSF](   ) <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+- ⚕️ [@0xAbbarhSF](   ) <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   
-- 💠 Facebook-: [@0xAbbarhSF](https://www.facebook.com/katokaari.kiarikari) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+- 💠 [@0xAbbarhSF](https://www.facebook.com/katokaari.kiarikari) <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 
-- 🕊️ Twitter-: [@0xAbbarhSF](https://twitter.com/0xAbbarhSF) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+- 🕊️ [@0xAbbarhSF](https://twitter.com/0xAbbarhSF) <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 
 
 
