@@ -5,7 +5,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 
 
-
+<script src="https://tryhackme.com/badge/1345418"></script>
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
