@@ -4,8 +4,8 @@ https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-lin
 https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 
-<P>
-style="text-align:center;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JEjtmS20-l617RSDARFWPyZzE6_KfbQoJw&usqp=CAU" width="120px" hight="100">
+<p style="text-align:center;>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JEjtmS20-l617RSDARFWPyZzE6_KfbQoJw&usqp=CAU" width="120px" hight="100">
 </p>
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
