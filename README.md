@@ -9,6 +9,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
+<img align="left" alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
 
 
@@ -53,6 +54,5 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 ## :zap: Github Stats 
 
-<img align="left" alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&hide_border=true&theme=chartreuse-dark" />
  
 <!--
