@@ -5,12 +5,12 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JEjtmS20-l617RSDARFWPyZzE6_KfbQoJw&usqp=CAU" align="center" width="120px" hight="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JEjtmS20-l617RSDARFWPyZzE6_KfbQoJw&usqp=CAU" class="center" width="120px" hight="100">
 
 <!--  <img alt="https://avatars.githubusercontent.com/u/67552744?v=4" width="150px" src="    priflr pic   " /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=0xAbbarhSF&hide=ruby,perl&hide_border=true" /> -->
 
-## :zap: Github Stats
+### :zap: Github Stats
 <img align="left" alt="0xAbbarhSF's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xAbbarhSF&show_icons=true&hide_border=true&theme=chartreuse-dark" />
 
 
