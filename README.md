@@ -22,7 +22,7 @@ https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoC
 
 </br>
 <i>NightSighting 🕵️💻><br>
-<href a=""><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
+<href a="https://readme-jokes.vercel.app/api"><img align="center" src="https://readme-jokes.vercel.app/api" alt="SF"></a>
 
 - 💌 Pure Love For **PYTHON && BASH** <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white">
 
