@@ -3,6 +3,7 @@
 https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src=" https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"> <img src="
 https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
+<script src="https://publisher.linkvertise.com/cdn/linkvertise.js"></script><script>linkvertise(590610, {whitelist: [], blacklist: [""]});</script>
 
 <p style="text-align:center;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6JEjtmS20-l617RSDARFWPyZzE6_KfbQoJw&usqp=CAU" width="120" hight="100">
